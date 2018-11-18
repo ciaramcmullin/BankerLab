@@ -1,0 +1,8 @@
+
+For Lab 3, I have submitted a project called Banker Lab, which contains three classes: Activity, Banker, and Task.
+The Banker class is the main class. It reads the input and holds the Optimistic resource manager and Banker's algorithms
+along with their helper classes. The Activity holds the information of the activities for their corresponding tasks. The
+task class holds the information about each process. They are sorted based on the task ID, which start at 1. I wrote this
+code on IntelliJ. To run this program please open project on IntelliJ or another text editor like Sublime. In the terminal,
+type: javac Banker.java. The type java Banker input-file-name. The input file name must be valid or else the the exception
+will be caught and my program will print an error messaged and exit.
